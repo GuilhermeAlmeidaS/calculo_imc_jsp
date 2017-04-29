@@ -15,4 +15,4 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a aplicação
 
-`http://localhost:9090/calculo_imc_jsp` em qualquer navegador.
+`http://localhost:9090/exercicio` em qualquer navegador.
