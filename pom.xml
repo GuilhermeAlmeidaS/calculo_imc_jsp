@@ -6,7 +6,7 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>br.ufg.inf</groupId>
-  <artifactId>calculo_imc_jsp</artifactId>
+  <artifactId>exercicio</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>war</packaging>
 
