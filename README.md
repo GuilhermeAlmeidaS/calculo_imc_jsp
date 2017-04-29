@@ -1,5 +1,5 @@
 # Calculadora de IMC
-`Calculando IMC`
+`Calculando IMC, utilizando jsp`
 
 ## Para rodar o projeto
 
